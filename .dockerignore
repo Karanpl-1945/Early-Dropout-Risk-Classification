@@ -1,0 +1,13 @@
+dropout_env/
+__pycache__/
+.ipynb_checkpoints/
+.git/
+.agents/
+.codex/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+SUMMER_PROJECT*.ipynb
+student dropout.csv
+dropout.md
